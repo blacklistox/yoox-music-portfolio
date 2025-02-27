@@ -11,7 +11,7 @@ description: >-
   the unknown
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/COVER.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
