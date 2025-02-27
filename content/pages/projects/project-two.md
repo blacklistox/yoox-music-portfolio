@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: I JUST WANNA FLY
 colors: colors-a
-date: '0002-08-20'
+date: '0020-08-20'
 client: Awesome client
 description: >-
   A sonic escape. A journey beyond limits. "I JUST WANNA FLY" is more than just
