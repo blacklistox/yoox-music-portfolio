@@ -26,5 +26,8 @@ From the very first note, **"**[**I JUST WANNA FLY**](https://open.spotify.com/t
 
 This isn’t just a song. It’s a **statement**. A reminder that we’re meant to rise, to push boundaries, to dream beyond limits. Close your eyes, turn up the volume, and let yourself go.
 
-🎧 **Listen Now:** `<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2LBgrGxRxUIAd62uBJ9oL8?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>`
-[🔥 **Add to your playlist & share the energy!**](https://open.spotify.com/track/2LBgrGxRxUIAd62uBJ9oL8?si=32de61f875c64686)
+🎧 **Listen Now:** 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2LBgrGxRxUIAd62uBJ9oL8?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+🔥 Add to your playlist & share the energy!
+
