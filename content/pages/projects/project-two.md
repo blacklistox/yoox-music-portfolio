@@ -3,7 +3,7 @@ type: ProjectLayout
 title: I JUST WANNA FLY
 colors: colors-a
 date: '2024-08-01'
-client: Awesome client
+client: YOOX
 description: >-
   A sonic escape. A journey beyond limits. "I JUST WANNA FLY" is more than just
   a track—it’s a feeling. With soaring melodies, pulsating beats, and an
