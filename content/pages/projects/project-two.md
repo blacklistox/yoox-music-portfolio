@@ -30,8 +30,8 @@ This isn’t just a song. It’s a **statement**. A reminder that we’re meant 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2LBgrGxRxUIAd62uBJ9oL8?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-`<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1907093006&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/yooxmusic" title="YOOX" target="_blank" style="color: #cccccc; text-decoration: none;">YOOX</a> · <a href="https://soundcloud.com/yooxmusic/i-just-wanna-fly" title="I JUST WANNA FLY" target="_blank" style="color: #cccccc; text-decoration: none;">I JUST WANNA FLY</a></div>`
-
+```
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1907093006&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/yooxmusic" title="YOOX" target="_blank" style="color: #cccccc; text-decoration: none;">YOOX</a> · <a href="https://soundcloud.com/yooxmusic/i-just-wanna-fly" title="I JUST WANNA FLY" target="_blank" style="color: #cccccc; text-decoration: none;">I JUST WANNA FLY</a></div>
+```
 
 🔥 Add to your playlist & share the energy!
-
