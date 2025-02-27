@@ -47,9 +47,7 @@ sections:
     type: HeroSection
     actions: []
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Music is more than just sound—it’s an experience.
     subtitle: >-
       I’m YOOX, an electronic music producer and DJ passionate about crafting
       beats that resonate beyond the dance floor. My journey started with a love
