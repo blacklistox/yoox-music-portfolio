@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: YOOX.
-    subtitle: My
+    subtitle: My Name is Yoox/Yoowanda i am
     styles:
       self:
         height: auto
