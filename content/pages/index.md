@@ -14,7 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: YOOX.
-    subtitle: My Name is Yoox/Yoowanda i am
+    subtitle: >-
+      I’m YOOX, an electronic music producer and DJ crafting immersive
+      soundscapes that move the soul. From deep, resonant bass to uplifting
+      melodies, every track is an electrifying journey designed to captivate and
+      energize.
     styles:
       self:
         height: auto
